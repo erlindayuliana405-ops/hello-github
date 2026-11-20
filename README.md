@@ -1,8 +1,11 @@
 # Hello GitHub
 Halo! Ini adalah repository GitHub pertama saya.
 ## Tentang Saya
-- Nama: Nama Mahasiswa
-- Program Studi: Nama Program Studi
+- Nama: Erlinda Yuliana
+- Program Studi: Sistem Informasi
+- semester : 3
+- alamat : Pringgasela
+- Hobi : lari
 - Tambah seperlunya
 ## Tujuan
 Belajar menggunakan Git dan GitHub.
